@@ -1,0 +1,7 @@
+TO DO LIST
+
+Afficher les tags de chaque billet
+Supprimer les billets de "tag_billet" quand on supprime un billet
+Modifier les tags + tags_billet quand on modifie un billet
+
+Faire un filtre de tous les tags existants pour afficher uniquement les billets correspondants

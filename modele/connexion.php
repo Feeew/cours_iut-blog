@@ -1,7 +1,7 @@
 <?php
 try
 {
-    $bdd = new PDO('mysql:host=localhost;dbname=iut-blog', 'login', 'password');
+    $bdd = new PDO('mysql:host=localhost;dbname=iut_projet', 'root', 'root');
 }
 catch(Exception $e)
 {

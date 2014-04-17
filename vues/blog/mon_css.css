@@ -1,0 +1,14 @@
+label{
+  float:none;
+}
+.page-header{
+	padding-bottom:7px;
+}
+.page-header a{
+	padding:10px 10px;
+	color:gray;
+}
+.page-header a:hover{
+	background:#eeeeee;
+	text-decoration: none;
+}
